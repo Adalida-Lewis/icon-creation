@@ -13,6 +13,7 @@ The most important are
 2. Recognizability - making sure the icon stands out
 3. Uniqueness
 4. Don't Use Words
+
 ## Software for Icon Creation
 For icon creation, you will need some form of image creation software. Below is a list of free programs that you can use. They're all great, but which you use is personal preference.
 - [Paint.net](https://www.getpaint.net/download.html "Paint.net download")
