@@ -17,7 +17,7 @@ The most important are
 ## Software for Icon Creation
 For icon creation, you will need some form of image creation software. Below is a list of free programs that you can use. They're all great, but which you use is personal preference.
 - [Paint.net](https://www.getpaint.net/download.html "Paint.net download")
-- [Paint.net ICO AddOn] (https://forums.getpaint.net/topic/927-icon-cursor-and-animated-cursor-format-v37-may-2010/")
+- [Paint.net ICO AddOn](https://forums.getpaint.net/topic/927-icon-cursor-and-animated-cursor-format-v37-may-2010/")
 - [Krita](https://krita.org/en/download/krita-desktop/ "Krita Download") (Similar to Photoshop)
 - [GIMP](https://www.gimp.org/downloads/ "GIMP Download")
 
