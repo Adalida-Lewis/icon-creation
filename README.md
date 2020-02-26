@@ -26,7 +26,7 @@ This site is useful in generating all icon sizes for iOS, Android and Smartwatch
 ## FavIcon Code Demo
 
 Go to ICOConverter.com using the link below.
-- [ICO Coverter](https://icoconvert.com/")
+- [ICO Coverter](https://icoconvert.com/)
 
 Copy the code below and paste it into the header of the index.html file that is located inside your forked repository.
 
