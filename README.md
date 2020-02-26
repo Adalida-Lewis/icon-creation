@@ -17,9 +17,13 @@ For icon creation, you will need some form of image creation software. Below is 
 - [Krita](https://krita.org/en/download/krita-desktop/ "Krita Download") (Similar to Photoshop)
 - [GIMP](https://www.gimp.org/downloads/ "GIMP Download")
 
+## Device Icon Demo
+It's time to talk about creation of the icon that will be shown on your device's home screen. For this, we will use paint.net.
+
+Once our icon is created, visit this link: [App Icon Maker](https://appiconmaker.co/)
+This site is useful in generating all icon sizes for iOS, Android and Smartwatches.
+
 ## FavIcon Code Demo
-Create your icon using a free graphics software. We recommend Paint.net. (Link below)
-- [Paint.net](https://www.getpaint.net/download.html "Paint.net download")
 
 Go to ICOConverter.com using the link below.
 - [ICO Coverter](https://icoconvert.com/")
@@ -30,8 +34,3 @@ Copy the code below and paste it into the header of the index.html file that is 
 <link rel="apple-touch-icon" href="favicon.ico">
 <link rel="shortcut icon" href="favicon.ico" />
 ```
-
-## Device Icon Demo
-Now that we have our in-browser icon, it's time to talk about creation of the icon that will be shown on your device's home screen. Again, paint.net is recommended.
-
-Once our icon is created, visit this link: [App Icon Maker](https://appiconmaker.co/)
