@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Oxanium|Roboto&display=swap');
+
+html, body{
+    background-color: #FAF9F9 !important;
+    font-family: Oxanium;
+}
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.brand-colors{
+    background-color: #FAF9F9;
+}
+.navbar{
+    letter-spacing: 2px;
+}
+.brand-colors ul li a{
+    font-size: 1.25em;
+    color: #89B0AE !important;
+    font-weight: bold;
+    transition: color .25s ease-in-out;
+}
+.navbar-brand{
+    font-size: 1.25em;
+    color:#555B6E !important;
+    font-weight: bold;
+}
+.brand-colors ul li a:hover{
+    color:#555B6E !important;
+    transition: color .25s ease-in-out;
+}
+.brand-number{
+    font-size: .5em;
+    vertical-align: top;
+}
+.page-footer{
+    background-color: #555B6E;
+    color: #FAF9F9;
+}
+.page-footer a{
+    color: #FAF9F9;
+    text-decoration: underline;
+}
