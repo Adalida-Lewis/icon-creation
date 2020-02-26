@@ -27,11 +27,18 @@ For icon creation, you will need some form of image creation software. Below is 
 - [GIMP](https://www.gimp.org/downloads/ "GIMP Download")
 
 ## FavIcon Code Demo
+Create your icon using a free graphics software. We recommend Paint.net. (Link below)
+- [Paint.net](https://www.getpaint.net/download.html "Paint.net download")
+
+Save your icon to your machine as a .png file.
+
+Go to ICOConverter.com using the link below.
+- [ICO Coverter](https://icoconvert.com/")
+
 Copy the code below and paste it into the header of the index.html file that is located inside your forked repository.
 
 ```
 <link rel="apple-touch-icon" href="favicon.ico">
 <link rel="shortcut icon" href="favicon.ico" />
 ```
-
 
