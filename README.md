@@ -20,8 +20,9 @@ For icon creation, you will need some form of image creation software. Below is 
 - [Paint.net ICO AddOn](https://forums.getpaint.net/topic/927-icon-cursor-and-animated-cursor-format-v37-may-2010/")
 - [Krita](https://krita.org/en/download/krita-desktop/ "Krita Download") (Similar to Photoshop)
 - [GIMP](https://www.gimp.org/downloads/ "GIMP Download")
-## FavIcon Code
+
+## FavIcon Code Demo
 Copy the code below and paste it into the header of the index.html file that is located inside your forked repository.
 
-<link rel="apple-touch-icon" href="favicon.ico">
-<link rel="shortcut icon" href="favicon.ico" />
+***<link rel="apple-touch-icon" href="favicon.ico">
+***<link rel="shortcut icon" href="favicon.ico" />
