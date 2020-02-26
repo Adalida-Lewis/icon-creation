@@ -30,8 +30,6 @@ For icon creation, you will need some form of image creation software. Below is 
 Create your icon using a free graphics software. We recommend Paint.net. (Link below)
 - [Paint.net](https://www.getpaint.net/download.html "Paint.net download")
 
-Save your icon to your machine as a .png file.
-
 Go to ICOConverter.com using the link below.
 - [ICO Coverter](https://icoconvert.com/")
 
