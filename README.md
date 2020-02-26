@@ -23,6 +23,16 @@ It's time to talk about creation of the icon that will be shown on your device's
 Once our icon is created, visit this link: [App Icon Maker](https://appiconmaker.co/)
 This site is useful in generating all icon sizes for iOS, Android and Smartwatches.
 
+## Splash Screen Icon Demo
+Have you ever seen an icon flash before you while opening an app? You probably saw the icon on something called a splash screen. 
+
+With our icons created, we will be using the PWA Asset Generator create by Github user [Onder Ceylan](https://github.com/onderceylan/pwa-asset-generator). Note: When downloading the generator, be sure to use Gitbash for seemless install.
+
+Converter
+```git
+$ pwa-asset-generator [source-file] Splash --splash-only
+```
+
 ## FavIcon Code Demo
 
 Go to ICOConverter.com using the link below.
