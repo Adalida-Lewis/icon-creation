@@ -1,4 +1,10 @@
 # Icon Creation
+
+## Links
+
+- [Demo](https://michaelcrawford35.github.io/icon-creation/)
+- [Source](https://github.com/michaelcrawford35/icon-creation)
+
 ## Group Members
 - Michael Crawford [GitHub](https://github.com/michaelcrawford35 "Michael's GitHub")
 - Nolan Harless [GitHub](https://github.com/nolanharless "Nolan's GitHub")
@@ -17,5 +23,15 @@ The most important are
 ## Software for Icon Creation
 For icon creation, you will need some form of image creation software. Below is a list of free programs that you can use. They're all great, but which you use is personal preference.
 - [Paint.net](https://www.getpaint.net/download.html "Paint.net download")
+- [Paint.net ICO AddOn](https://forums.getpaint.net/topic/927-icon-cursor-and-animated-cursor-format-v37-may-2010/")
 - [Krita](https://krita.org/en/download/krita-desktop/ "Krita Download") (Similar to Photoshop)
 - [GIMP](https://www.gimp.org/downloads/ "GIMP Download")
+
+## FavIcon Code Demo
+Copy the code below and paste it into the header of the index.html file that is located inside your forked repository.
+
+```
+<link rel="apple-touch-icon" href="favicon.ico">
+<link rel="shortcut icon" href="favicon.ico" />
+```
+
